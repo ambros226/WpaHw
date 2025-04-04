@@ -1,0 +1,12 @@
+.header-bg-image{
+    background-image: url('images/freepik__expand__25331.png');
+    background-size: cover;  /* Roztáhne obrázek */
+    background-position: center;
+    height: 75vh;
+}
+.header-bg-image2{
+    background-image: url('images/3d-rendering-loft-luxury-living-room-with-bookshelf.jpg');
+    background-size: cover;  /* Roztáhne obrázek */
+    background-position: center;
+    height: 75vh;
+}
