@@ -17,3 +17,6 @@
 .zoom-hover:hover {
     transform: scale(1.05);
 }
+.shadow-white {
+    box-shadow: 0 10px 20px rgba(255, 255, 255, 0.8);
+}
